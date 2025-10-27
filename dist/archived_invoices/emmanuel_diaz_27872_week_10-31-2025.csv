@@ -1,0 +1,2 @@
+Invoice#,Customer,Date,Status,Total,Tip,Materials,Fees,Commission
+1234,John Dow,10/26/2025,Paid,500.00,35.00,35.00,20.00,292.50
