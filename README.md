@@ -6,7 +6,7 @@ Download
 
 You can download the latest signed version of the Thrive Payroll Tracker from the link below:
 
-Download Thrive Payroll Tracker (Latest Release)
+Download Thrive Payroll Tracker [(Latest Release)](https://github.com/Ediazpy/Payroll-tracker/releases/tag/v1.0.0)
 
 In the Assets section, download:
 
